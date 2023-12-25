@@ -5,20 +5,21 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '不知道躺了做什么？', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到xwzx的主页', url: 'https://blog.tangly1024.com' },
+    { title: '不知道躺了做什么？', url: 'https://docs.tangly1024.com' },
+    { title: '今天吃点啥？', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '体验',
   HEO_HERO_TITLE_2: '依靠',
-  HEO_HERO_TITLE_3: '解药',
+  HEO_HERO_TITLE_3: '舒服步调',
   HEO_HERO_TITLE_4: '最后的燃烧',
   HEO_HERO_TITLE_5: '咖啡调调和极限运动',
   HEO_HERO_TITLE_LINK: 'https://xwzx.ca',
   
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '好吃不胖饭饭', url: '/tag/饭饭' },
+  HEO_HERO_CATEGORY_1: { title: '好次不胖饭饭', url: '/tag/饭饭' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
@@ -32,7 +33,7 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '这是xwzx展示地',
-    '🔍 自己觉得好吃的饭饭',
+    '🔍 好吃不胖的饭饭',
     '🤝 有趣的技能',
     '🏃 脚踏实地做过的小项目',
     '🏠 舒服的家具设计',
