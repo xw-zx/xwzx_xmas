@@ -5,9 +5,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到xwzx的主页', url: 'https://blog.tangly1024.com' },
-    { title: '不知道躺了做什么？', url: 'https://docs.tangly1024.com' },
-    { title: '今天吃点啥？', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到xwzx的主页', url: 'https://xwzx.ca' },
+    { title: '不知道躺了做什么？', url: 'https://xwzx.ca'},
+    { title: '今天吃点啥？', url: 'https://xwzx.ca' }
   ],
 
   // 英雄区(首页顶部大卡)
