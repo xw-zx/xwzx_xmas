@@ -9,6 +9,14 @@ const CONFIG = {
     { title: '不知道躺了做什么？', url: 'https://docs.tangly1024.com' }
   ],
 
+  // 英雄区(首页顶部大卡)
+  HEO_HERO_TITLE_1: '体验',
+  HEO_HERO_TITLE_2: '依靠',
+  HEO_HERO_TITLE_3: '解药',
+  HEO_HERO_TITLE_4: '最后的燃烧',
+  HEO_HERO_TITLE_5: '咖啡调调和极限运动',
+  HEO_HERO_TITLE_LINK: 'https://xwzx.ca',
+  
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '好吃不胖饭饭', url: '/tag/饭饭' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
@@ -20,13 +28,6 @@ const CONFIG = {
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
   
-// 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '体验',
-  HEO_HERO_TITLE_2: '依靠',
-  HEO_HERO_TITLE_3: '解药',
-  HEO_HERO_TITLE_4: '最后的燃烧',
-  HEO_HERO_TITLE_5: '咖啡调调和极限运动',
-  HEO_HERO_TITLE_LINK: 'https://xwzx.ca',
   
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
