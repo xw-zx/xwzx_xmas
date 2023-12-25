@@ -20,8 +20,8 @@ const CONFIG = {
   
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '好次不胖饭饭', url: '/tag/饭饭' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_2: { title: '手机先吃', url: '/tag/Pictures' },
+  HEO_HERO_CATEGORY_3: { title: 'Whats Done', url: '/tag/Done' },
 
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -69,27 +69,19 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
-      color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#2c51db'
-    },
-    {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
-      color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
-      color_2: '#e9572b'
-    },
-    {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      title_1: 'Amazon',
+      img_1: '/images/heo/amazon_logo.png',
       color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      title_2: 'Ticketmaster',
+      img_2: '/images/heo/ticketmaster_logo.png',
+      color_2: '#1f1f1f'
+    },
+     {
+      title_1: 'Discord',
+      img_1: '/images/heo/discord_logo.png',
+      color_1: '#df5b40',
+      title_2: 'Ubereats',
+      img_2: '/images/heo/ubereats_logo.png',
       color_2: '#1f1f1f'
     }
   ],
