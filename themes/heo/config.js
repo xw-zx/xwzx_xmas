@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '体验',
   HEO_HERO_TITLE_2: '依靠',
   HEO_HERO_TITLE_3: '舒服步调',
-  HEO_HERO_TITLE_4: '随便玩玩',
+  HEO_HERO_TITLE_4: '认真玩玩',
   HEO_HERO_TITLE_5: '咖啡调调和极限运动',
   HEO_HERO_TITLE_LINK: 'https://xwzx.ca',
   
